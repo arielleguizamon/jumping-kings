@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"023d292b-db47-4e17-88a4-c81527a3ae68","path":"sprites/KingRed_Falling/KingRed_Falling.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"023d292b-db47-4e17-88a4-c81527a3ae68","path":"sprites/KingRed_Falling/KingRed_Falling.yy",},"LayerId":{"name":"0bde0dbd-f048-4fe5-b9ef-648d303d6448","path":"sprites/KingRed_Falling/KingRed_Falling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"KingRed_Falling","path":"sprites/KingRed_Falling/KingRed_Falling.yy",},"resourceVersion":"1.0","name":"023d292b-db47-4e17-88a4-c81527a3ae68","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"023d292b-db47-4e17-88a4-c81527a3ae68","path":"sprites/kingRed_Falling/kingRed_Falling.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"023d292b-db47-4e17-88a4-c81527a3ae68","path":"sprites/kingRed_Falling/kingRed_Falling.yy",},"LayerId":{"name":"0bde0dbd-f048-4fe5-b9ef-648d303d6448","path":"sprites/kingRed_Falling/kingRed_Falling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"kingRed_Falling","path":"sprites/kingRed_Falling/kingRed_Falling.yy",},"resourceVersion":"1.0","name":"023d292b-db47-4e17-88a4-c81527a3ae68","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"KingRed_Falling","path":"sprites/KingRed_Falling/KingRed_Falling.yy",},
+    "spriteId": {"name":"kingRed_Falling","path":"sprites/kingRed_Falling/kingRed_Falling.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"888b97ed-1b40-4eeb-93e9-3db65fd9c057","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"023d292b-db47-4e17-88a4-c81527a3ae68","path":"sprites/KingRed_Falling/KingRed_Falling.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"888b97ed-1b40-4eeb-93e9-3db65fd9c057","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"023d292b-db47-4e17-88a4-c81527a3ae68","path":"sprites/kingRed_Falling/kingRed_Falling.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 14,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"KingRed_Falling","path":"sprites/KingRed_Falling/KingRed_Falling.yy",},
+    "parent": {"name":"kingRed_Falling","path":"sprites/kingRed_Falling/kingRed_Falling.yy",},
     "resourceVersion": "1.3",
-    "name": "KingRed_Falling",
+    "name": "kingRed_Falling",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -68,11 +68,11 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0bde0dbd-f048-4fe5-b9ef-648d303d6448","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "KingRed",
+    "path": "folders/Sprites/KingRed.yy",
   },
   "resourceVersion": "1.0",
-  "name": "KingRed_Falling",
+  "name": "kingRed_Falling",
   "tags": [],
   "resourceType": "GMSprite",
 }

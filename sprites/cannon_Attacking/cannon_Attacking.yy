@@ -100,8 +100,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1f720f2c-1001-4697-ac15-8e1fb3905a7b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Cannon",
+    "path": "folders/Sprites/Cannon.yy",
   },
   "resourceVersion": "1.0",
   "name": "cannon_Attacking",

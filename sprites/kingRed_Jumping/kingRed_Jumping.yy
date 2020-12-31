@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"38e7eb83-0c5a-4de6-88c9-2ce7b00eedce","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "KingRed",
+    "path": "folders/Sprites/KingRed.yy",
   },
   "resourceVersion": "1.0",
   "name": "kingRed_Jumping",

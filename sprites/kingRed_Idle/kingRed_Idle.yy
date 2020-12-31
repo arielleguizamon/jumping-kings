@@ -108,8 +108,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"329687bb-7e8b-4dc3-b8f9-5797e3750ee5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "KingRed",
+    "path": "folders/Sprites/KingRed.yy",
   },
   "resourceVersion": "1.0",
   "name": "kingRed_Idle",

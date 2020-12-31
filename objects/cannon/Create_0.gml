@@ -1,3 +1,3 @@
 currentInterval = 0;
-shootingSpeed = 120;
+shootingSpeed = 240;
 alreadyShot = false

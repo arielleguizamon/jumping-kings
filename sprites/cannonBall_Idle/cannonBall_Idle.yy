@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"329e17e7-0c50-4259-94b8-792de28a73da","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Cannon",
+    "path": "folders/Sprites/Cannon.yy",
   },
   "resourceVersion": "1.0",
   "name": "cannonBall_Idle",
