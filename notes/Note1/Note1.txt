@@ -1,5 +1,5 @@
 2 do list: 
 - compartir notas bien
 - arreglar el git
-- sacar corona al rey (editar sprite) poner arriba en el final del nivel
+- sacar corona al rey (importar y editar todos los sprites ) poner arriba en el final del nivel
 - 
