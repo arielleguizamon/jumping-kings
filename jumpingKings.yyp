@@ -12,6 +12,7 @@
     {"id":{"name":"kingRed_Run","path":"sprites/kingRed_Run/kingRed_Run.yy",},"order":3,},
     {"id":{"name":"tilesetWalls","path":"tilesets/tilesetWalls/tilesetWalls.yy",},"order":1,},
     {"id":{"name":"emptySpriteWalls","path":"sprites/emptySpriteWalls/emptySpriteWalls.yy",},"order":5,},
+    {"id":{"name":"pigSimple_Running","path":"sprites/pigSimple_Running/pigSimple_Running.yy",},"order":1,},
     {"id":{"name":"tilesetWallsimage","path":"sprites/tilesetWallsimage/tilesetWallsimage.yy",},"order":3,},
     {"id":{"name":"cannonBall","path":"objects/cannonBall/cannonBall.yy",},"order":3,},
     {"id":{"name":"kingRed","path":"objects/kingRed/kingRed.yy",},"order":0,},
@@ -22,6 +23,7 @@
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
     {"id":{"name":"cannon_Attacking","path":"sprites/cannon_Attacking/cannon_Attacking.yy",},"order":0,},
     {"id":{"name":"BigChain","path":"objects/BigChain/BigChain.yy",},"order":5,},
+    {"id":{"name":"pigRunning","path":"objects/pigRunning/pigRunning.yy",},"order":6,},
     {"id":{"name":"level_1","path":"rooms/level_1/level_1.yy",},"order":0,},
   ],
   "Options": [
