@@ -11,6 +11,7 @@
     {"id":{"name":"tilesetWalls","path":"tilesets/tilesetWalls/tilesetWalls.yy",},"order":1,},
     {"id":{"name":"emptySpriteWalls","path":"sprites/emptySpriteWalls/emptySpriteWalls.yy",},"order":5,},
     {"id":{"name":"tilesetWallsimage","path":"sprites/tilesetWallsimage/tilesetWallsimage.yy",},"order":3,},
+    {"id":{"name":"cannonBall","path":"objects/cannonBall/cannonBall.yy",},"order":3,},
     {"id":{"name":"kingRed","path":"objects/kingRed/kingRed.yy",},"order":0,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":15,},
     {"id":{"name":"cannon","path":"objects/cannon/cannon.yy",},"order":2,},

@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "cannonBall_Idle",
+    "path": "sprites/cannonBall_Idle/cannonBall_Idle.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -17,15 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"cannonBall","path":"objects/cannonBall/cannonBall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "jumpingKings",
-    "path": "jumpingKings.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object2",
+  "name": "cannonBall",
   "tags": [],
   "resourceType": "GMObject",
 }
