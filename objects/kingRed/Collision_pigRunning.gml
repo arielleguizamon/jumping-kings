@@ -1,0 +1,2 @@
+hitted=true
+lives --
