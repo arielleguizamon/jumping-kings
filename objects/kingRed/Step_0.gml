@@ -7,21 +7,22 @@ if (xDirection != 0) image_xscale = xDirection;
 xSpeed = xDirection * spd;
 ySpeed++;
 
-if (place_meeting(x, y, BigChain) && !onTheGround) {
-  if (jump) y -= 20;
-} else {
-  if (hitted) {
-    if (hittedTime == 60) sprite_index = kingRed_Hit;
+if (hitted) {
+	if(hittedTime ==60) sprite_index=kingRed_Hit
     hittedTime--;
     if (hittedTime <= 0) {
       hitted = false;
       hittedTime = 60;
     }
-  } else {
+  }
+
+if (place_meeting(x, y, BigChain) && !onTheGround) {
+  if (jump) y -= 20;
+} else {
     if (onTheGround) {
-      if (xDirection != 0) {
+      if (xDirection != 0 && !hitted) {
         sprite_index = kingRed_Run;
-      } else {
+      } else if(!hitted){
         sprite_index = kingRed_Idle;
       }
 
@@ -30,13 +31,13 @@ if (place_meeting(x, y, BigChain) && !onTheGround) {
       }
     } else {
       //check if the sprite is jumping or falling
-      if (sign(ySpeed) == -1) {
+      if (sign(ySpeed) == -1 && !hitted) {
         sprite_index = kingRed_Jumping;
-      } else {
+      } else if (!hitted){
         sprite_index = kingRed_Falling;
       }
     }
-  }
+ 
 
   if (place_meeting(x, y + ySpeed, oWall)) {
     while (!place_meeting(x, y + sign(ySpeed), oWall)) {
